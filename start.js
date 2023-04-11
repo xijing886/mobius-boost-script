@@ -5,7 +5,7 @@ let MOBIUS_CONTRACT = "0xd44ae23723aacdc658f1edd74a4b97016201a4a5f0fbbfdb31cfab6
 
 
 //Enter your mnemonic phrase here.
-let MnemonicPhrase = "";
+let MnemonicPhrase = "intact alley strong step double mix transfer strong number arena across win";
 // deposit token : Find the NFT collection that you own, corresponding to this pool.
 let token = {
     creator: "",
